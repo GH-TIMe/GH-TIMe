@@ -22,6 +22,10 @@
 [<img src="https://img.icons8.com/color/32/000000/visual-studio-code-2019.png"/>][img-link]
 
 ---
+### 📊 На этой неделе я потратил свое время на:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 [curr-project]: https://github.com/GH-TIMe/Avito-task
 [telegram]: https://t.me/Tims_Tel
