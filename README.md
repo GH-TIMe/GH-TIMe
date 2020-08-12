@@ -39,6 +39,6 @@ JavaScript   49 mins         █░░░░░░░░░░░░░░░░
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GH-TIMe&hide=jupyter%20notebook)](https://github.com/GH-TIMe/github-readme-stats)
 [![TIMe github stats](https://github-readme-stats.vercel.app/api?username=GH-TIMe)](https://github.com/GH-TIMe/github-readme-stats)
 
-[curr-project]: https://www.figma.com/file/H4xP0c79piKDLaBt4Z74bu/GitHub-DashBoard?node-id=0%3A1
+[curr-project]: https://github.com/GH-TIMe/html-github-dashboard
 [telegram]: https://t.me/Tims_Tel
 [img-link]: https://github.com/GH-TIMe/Portfolio
