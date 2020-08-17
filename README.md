@@ -30,11 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-SCSS         5 hrs 1 min     ███████████░░░░░░░░░░░░░░   44.92 %
-HTML         2 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   18.38 %
-JSX          1 hr 46 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
-Markdown     1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-JavaScript   49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+JavaScript   9 hrs 21 mins   ████████████░░░░░░░░░░░░░   47.70 %
+SCSS         3 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
+JSX          3 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
+HTML         2 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
+Markdown     33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 <!--END_SECTION:waka-->
@@ -44,6 +44,6 @@ JavaScript   49 mins         █░░░░░░░░░░░░░░░░
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GH-TIMe&hide=jupyter%20notebook)](https://github.com/GH-TIMe/github-readme-stats)
 [![TIMe github stats](https://github-readme-stats.vercel.app/api?username=GH-TIMe)](https://github.com/GH-TIMe/github-readme-stats)
 
-[curr-project]: https://www.figma.com/file/H4xP0c79piKDLaBt4Z74bu/GitHub-DashBoard?node-id=0%3A1
+[curr-project]: https://github.com/GH-TIMe/html-github-dashboard
 [telegram]: https://t.me/Tims_Tel
 [img-link]: https://github.com/GH-TIMe/Portfolio
