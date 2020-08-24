@@ -34,7 +34,7 @@ JavaScript   9 hrs 21 mins   ████████████░░░░░
 SCSS         3 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
 JSX          3 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
 HTML         2 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-Markdown     33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Markdown     33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
@@ -44,6 +44,6 @@ Markdown     33 mins         ▓░░░░░░░░░░░░░░░░
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GH-TIMe&hide=jupyter%20notebook)](https://github.com/GH-TIMe/github-readme-stats)
 [![TIMe github stats](https://github-readme-stats.vercel.app/api?username=GH-TIMe)](https://github.com/GH-TIMe/github-readme-stats)
 
-[curr-project]: https://github.com/GH-TIMe/html-github-dashboard
+[curr-project]: https://github.com/GH-TIMe/github-dashboard
 [telegram]: https://t.me/Tims_Tel
 [img-link]: https://github.com/GH-TIMe/Portfolio
