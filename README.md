@@ -4,7 +4,7 @@
 
 Здесь я учусь и стараюсь стать крутым Front-end разработчиком 😎
 
-- 🔭 В данный момент работаю над проектом [Github Dashboard][curr-project]
+- 🔭 В данный момент работаю над проектом [to do][curr-project]
 - 📙 Cейчас изучаю ReactJS, Redux
 - 💬 Спрашивайте обо всём, что связано с Front-end разработкой ;)
 - 📫 Cвязаться со мной: [@Tims_Tel][telegram]
@@ -28,13 +28,15 @@
 ### 📊 На этой неделе я потратил свое время на:
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   9 hrs 42 mins   ███████████▒░░░░░░░░░░░░░   45.58 % 
+JavaScript   9 hrs 42 mins   ███████████▒░░░░░░░░░░░░░   45.58 %
 JSX          9 hrs 37 mins   ███████████▒░░░░░░░░░░░░░   45.18 %
 Markdown     42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 JSON         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
 SCSS         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
@@ -42,6 +44,6 @@ SCSS         32 mins         ▓░░░░░░░░░░░░░░░░
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GH-TIMe&hide=jupyter%20notebook)](https://github.com/GH-TIMe/github-readme-stats)
 [![TIMe github stats](https://github-readme-stats.vercel.app/api?username=GH-TIMe)](https://github.com/GH-TIMe/github-readme-stats)
 
-[curr-project]: https://github.com/GH-TIMe/github-dashboard
+[curr-project]: https://www.figma.com/file/OP7oFTNqV8tPZyh2zSgCaX/Todo-ReactJS?node-id=0%3A1
 [telegram]: https://t.me/Tims_Tel
 [img-link]: https://github.com/GH-TIMe/Portfolio
