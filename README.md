@@ -4,7 +4,7 @@
 
 Здесь я учусь и стараюсь стать крутым Front-end разработчиком 😎
 
-- 🔭 В данный момент работаю над проектом [to do][curr-project]
+- 🔭 В данный момент работаю над проектом [React JS Chat][curr-project]
 - 📙 Cейчас изучаю ReactJS, Redux
 - 💬 Спрашивайте обо всём, что связано с Front-end разработкой ;)
 - 📫 Cвязаться со мной: [@Tims_Tel][telegram]
@@ -42,6 +42,6 @@ Markdown     5 mins          ▒░░░░░░░░░░░░░░░░
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GH-TIMe&hide=jupyter%20notebook)](https://github.com/GH-TIMe/github-readme-stats)
 [![TIMe github stats](https://github-readme-stats.vercel.app/api?username=GH-TIMe)](https://github.com/GH-TIMe/github-readme-stats)
 
-[curr-project]: https://www.figma.com/file/OP7oFTNqV8tPZyh2zSgCaX/Todo-ReactJS?node-id=0%3A1
+[curr-project]: https://www.figma.com/file/Yu7E9cvS1nTJ7vYtj4haXYKc/ReactJS-Chat?node-id=0%3A1
 [telegram]: https://t.me/Tims_Tel
 [img-link]: https://github.com/GH-TIMe/Portfolio
